@@ -1,3 +1,1 @@
-# Underwater toolbox
-
-The code of underwater object detection and underwater image enhancement is coming soon.
+Codes are move to https://github.com/BIGWangYuDong/lqit
